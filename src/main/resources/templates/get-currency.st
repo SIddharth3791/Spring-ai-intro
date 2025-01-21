@@ -1,0 +1,1 @@
+What is the capital of {stateOrCountry}? Response Should be in following format {format}
