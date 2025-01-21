@@ -3,8 +3,6 @@
 ## Overview
 This application serves as an introduction to integrating Spring with OpenAI APIs. It is designed to provide information about cities or answer general questions using natural language processing powered by OpenAI.  
 
-The project is structured following the MVC (Model-View-Controller) pattern to ensure clarity, scalability, and maintainability.  
-
 ---
 
 ## Features
