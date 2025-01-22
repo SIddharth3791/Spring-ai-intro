@@ -31,3 +31,4 @@ This application serves as an introduction to integrating Spring with OpenAI API
 - Java 21 or higher  
 - Maven
 - OpenAI API Key  
+ 
